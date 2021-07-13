@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31229.75
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChatAppMobile", "ChatAppMobile.csproj", "{E840FEB6-6FDB-4F10-AE61-9DA2A5F0CE8B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E840FEB6-6FDB-4F10-AE61-9DA2A5F0CE8B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E840FEB6-6FDB-4F10-AE61-9DA2A5F0CE8B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E840FEB6-6FDB-4F10-AE61-9DA2A5F0CE8B}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{E840FEB6-6FDB-4F10-AE61-9DA2A5F0CE8B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E840FEB6-6FDB-4F10-AE61-9DA2A5F0CE8B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E840FEB6-6FDB-4F10-AE61-9DA2A5F0CE8B}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D5E090A9-58D5-4DCB-A431-E2BDC71F1E61}
+	EndGlobalSection
+EndGlobal
